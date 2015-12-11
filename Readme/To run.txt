@@ -1,0 +1,5 @@
+To run this code, download the zip, extract it to a desired location.
+
+If you do not have IPython, download it using the Anaconda package
+
+Open the file in IPython, Click cell and choose run all
